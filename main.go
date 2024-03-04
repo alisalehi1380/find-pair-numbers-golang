@@ -50,6 +50,6 @@ func main() {
 	// find pair numbers
 	resultA, resultB := findPair(numbers, m)
 
-	// show resultes
+	// show results
 	fmt.Printf("Pair found: (%d, %d)\n", resultA, resultB)
 }
